@@ -541,10 +541,10 @@ UseTesting
 -1000
 
 BUTTON
-850
-180
-982
-213
+805
+25
+937
+58
 setup-10-times-go
 setup-10-times-go
 NIL
@@ -558,10 +558,10 @@ NIL
 1
 
 BUTTON
-850
-230
-1092
-263
+805
+75
+1047
+108
 NIL
 change-compliance-setup-10-times-go
 NIL
@@ -575,10 +575,10 @@ NIL
 1
 
 BUTTON
-910
-295
-1127
-328
+805
+130
+1022
+163
 NIL
 change-testing-setup-10-times-go
 NIL
@@ -592,10 +592,10 @@ NIL
 1
 
 BUTTON
-890
-375
-1017
-408
+805
+185
+932
+218
 NIL
 RunAllExperiment
 NIL
